@@ -40,7 +40,7 @@ IDE:           IntelliJ, VS Code, Android Studio
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/aryan-chanana/](https://www.linkedin.com/in/aryan-chanana-bb2070284/))
+- 💼 [LinkedIn/aryan-chanana](https://www.linkedin.com/in/aryan-chanana-bb2070284/)
 - 📧 Email: aryanchanana1111@gmail.com
 
 ---
